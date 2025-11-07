@@ -58,7 +58,7 @@ Hello from Flask in Docker! 🚀
 
 🐳 Docker Hub Repository
 You can find the Docker image here:
-🔗 Docker Hub - yukta27989/python-flask
+🔗 GitHub - Yuktajambhale/python-flask-app-docker
 
 To pull the image directly:
 
