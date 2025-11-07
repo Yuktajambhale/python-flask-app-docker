@@ -27,6 +27,7 @@ Copy code
 ---
 
 ## ⚙️ Technologies Used
+
 | Tool / Tech | Description |
 |--------------|-------------|
 | 🐍 **Python 3.9** | Programming language |
@@ -58,7 +59,7 @@ Hello from Flask in Docker! 🚀
 
 🐳 Docker Hub Repository
 You can find the Docker image here:
-🔗 GitHub - Yuktajambhale/python-flask-app-docker
+🔗 Docker Hub - yukta27989/python-flask
 
 To pull the image directly:
 
@@ -69,5 +70,6 @@ docker pull yukta27989/python-flask:0.0.1.RELEASE
 🔗 GitHub - Yuktajambhale/python-flask-app-docker
 
 👩‍💻 Author
+Yukta Jambhale
 Yukta Jambhale
 💡 Python | Flask | Docker Enthusiast
